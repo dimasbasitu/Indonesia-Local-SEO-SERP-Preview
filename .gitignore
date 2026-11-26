@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local browser profiles can contain cookies and session data
+google_session_profile/
+google_chrome_serp_profile/
+
+# Streamlit secrets and local settings
+.streamlit/secrets.toml
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local packages
+dist/
+*.zip
+
+# Clean export generated for GitHub upload
+/github-ready/
+
