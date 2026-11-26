@@ -1,0 +1,2817 @@
+{
+  "Indonesia (Nasional)": {
+    "Seluruh Indonesia (Nasional)": {
+      "canonical": "Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Aceh": {
+    "Seluruh Provinsi Aceh": {
+      "canonical": "Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Barat": {
+      "canonical": "Aceh Barat Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Barat Daya": {
+      "canonical": "Aceh Barat Daya Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Besar": {
+      "canonical": "Aceh Besar Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Jaya": {
+      "canonical": "Aceh Jaya Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Selatan": {
+      "canonical": "Aceh Selatan Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Singkil": {
+      "canonical": "Aceh Singkil Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Tamiang": {
+      "canonical": "Aceh Tamiang Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Tengah": {
+      "canonical": "Aceh Tengah Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Tenggara": {
+      "canonical": "Aceh Tenggara Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Timur": {
+      "canonical": "Aceh Timur Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Aceh Utara": {
+      "canonical": "Aceh Utara Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bener Meriah": {
+      "canonical": "Bener Meriah Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bireuen": {
+      "canonical": "Bireuen Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gayo Lues": {
+      "canonical": "Gayo Lues Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nagan Raya": {
+      "canonical": "Nagan Raya Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pidie": {
+      "canonical": "Pidie Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pidie Jaya": {
+      "canonical": "Pidie Jaya Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Simeulue": {
+      "canonical": "Simeulue Regency,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Banda Aceh": {
+      "canonical": "Banda Aceh,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Langsa": {
+      "canonical": "Langsa,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Lhokseumawe": {
+      "canonical": "Lhokseumawe,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sabang": {
+      "canonical": "Sabang,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Subulussalam": {
+      "canonical": "Subulussalam,Aceh,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sumatera Utara": {
+    "Seluruh Provinsi Sumatera Utara": {
+      "canonical": "North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Asahan": {
+      "canonical": "Asahan Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Batu Bara": {
+      "canonical": "Batu Bara Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Dairi": {
+      "canonical": "Dairi Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Deli Serdang": {
+      "canonical": "Deli Serdang Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Humbang Hasundutan": {
+      "canonical": "Humbang Hasundutan Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Karo": {
+      "canonical": "Karo Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Labuhan Batu": {
+      "canonical": "Labuhan Batu Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Labuhan Batu Selatan": {
+      "canonical": "Labuhan Batu Selatan Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Labuhan Batu Utara": {
+      "canonical": "Labuhan Batu Utara Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Langkat": {
+      "canonical": "Langkat Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mandailing Natal": {
+      "canonical": "Mandailing Natal Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nias": {
+      "canonical": "Nias Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nias Barat": {
+      "canonical": "Nias Barat Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nias Selatan": {
+      "canonical": "Nias Selatan Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nias Utara": {
+      "canonical": "Nias Utara Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Padang Lawas": {
+      "canonical": "Padang Lawas Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Padang Lawas Utara": {
+      "canonical": "Padang Lawas Utara Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pakpak Bharat": {
+      "canonical": "Pakpak Bharat Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Samosir": {
+      "canonical": "Samosir Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Serdang Bedagai": {
+      "canonical": "Serdang Bedagai Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Simalungun": {
+      "canonical": "Simalungun Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tapanuli Selatan": {
+      "canonical": "Tapanuli Selatan Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tapanuli Tengah": {
+      "canonical": "Tapanuli Tengah Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tapanuli Utara": {
+      "canonical": "Tapanuli Utara Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Toba Samosir": {
+      "canonical": "Toba Samosir Regency,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Binjai": {
+      "canonical": "Binjai,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Gunungsitoli": {
+      "canonical": "Gunungsitoli,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Medan": {
+      "canonical": "Medan,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Padangsidimpuan": {
+      "canonical": "Padangsidimpuan,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pematang Siantar": {
+      "canonical": "Pematang Siantar,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sibolga": {
+      "canonical": "Sibolga,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tanjung Balai": {
+      "canonical": "Tanjung Balai,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tebing Tinggi": {
+      "canonical": "Tebing Tinggi,North Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sumatera Barat": {
+    "Seluruh Provinsi Sumatera Barat": {
+      "canonical": "West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Agam": {
+      "canonical": "Agam Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Dharmasraya": {
+      "canonical": "Dharmasraya Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Mentawai": {
+      "canonical": "Kepulauan Mentawai Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lima Puluh Kota": {
+      "canonical": "Lima Puluh Kota Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Padang Pariaman": {
+      "canonical": "Padang Pariaman Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pasaman": {
+      "canonical": "Pasaman Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pasaman Barat": {
+      "canonical": "Pasaman Barat Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pesisir Selatan": {
+      "canonical": "Pesisir Selatan Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sijunjung": {
+      "canonical": "Sijunjung Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Solok": {
+      "canonical": "Solok Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Solok Selatan": {
+      "canonical": "Solok Selatan Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanah Datar": {
+      "canonical": "Tanah Datar Regency,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bukittinggi": {
+      "canonical": "Bukittinggi,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Padang": {
+      "canonical": "Padang,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Padang Panjang": {
+      "canonical": "Padang Panjang,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pariaman": {
+      "canonical": "Pariaman,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Payakumbuh": {
+      "canonical": "Payakumbuh,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sawah Lunto": {
+      "canonical": "Sawah Lunto,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Solok": {
+      "canonical": "Solok,West Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Riau": {
+    "Seluruh Provinsi Riau": {
+      "canonical": "Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bengkalis": {
+      "canonical": "Bengkalis Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Indragiri Hilir": {
+      "canonical": "Indragiri Hilir Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Indragiri Hulu": {
+      "canonical": "Indragiri Hulu Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kampar": {
+      "canonical": "Kampar Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Meranti": {
+      "canonical": "Kepulauan Meranti Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kuantan Singingi": {
+      "canonical": "Kuantan Singingi Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pelalawan": {
+      "canonical": "Pelalawan Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Rokan Hilir": {
+      "canonical": "Rokan Hilir Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Rokan Hulu": {
+      "canonical": "Rokan Hulu Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten S I A K": {
+      "canonical": "S I A K Regency,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota D U M A I": {
+      "canonical": "D U M A I,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pekanbaru": {
+      "canonical": "Pekanbaru,Riau,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Jambi": {
+    "Seluruh Provinsi Jambi": {
+      "canonical": "Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Batang Hari": {
+      "canonical": "Batang Hari Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bungo": {
+      "canonical": "Bungo Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kerinci": {
+      "canonical": "Kerinci Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Merangin": {
+      "canonical": "Merangin Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Muaro Jambi": {
+      "canonical": "Muaro Jambi Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sarolangun": {
+      "canonical": "Sarolangun Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanjung Jabung Barat": {
+      "canonical": "Tanjung Jabung Barat Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanjung Jabung Timur": {
+      "canonical": "Tanjung Jabung Timur Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tebo": {
+      "canonical": "Tebo Regency,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jambi": {
+      "canonical": "Jambi,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sungai Penuh": {
+      "canonical": "Sungai Penuh,Jambi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sumatera Selatan": {
+    "Seluruh Provinsi Sumatera Selatan": {
+      "canonical": "South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banyu Asin": {
+      "canonical": "Banyu Asin Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Empat Lawang": {
+      "canonical": "Empat Lawang Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lahat": {
+      "canonical": "Lahat Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Muara Enim": {
+      "canonical": "Muara Enim Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Musi Banyuasin": {
+      "canonical": "Musi Banyuasin Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Musi Rawas": {
+      "canonical": "Musi Rawas Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Musi Rawas Utara": {
+      "canonical": "Musi Rawas Utara Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ogan Ilir": {
+      "canonical": "Ogan Ilir Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ogan Komering Ilir": {
+      "canonical": "Ogan Komering Ilir Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ogan Komering Ulu": {
+      "canonical": "Ogan Komering Ulu Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ogan Komering Ulu Selatan": {
+      "canonical": "Ogan Komering Ulu Selatan Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ogan Komering Ulu Timur": {
+      "canonical": "Ogan Komering Ulu Timur Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Penukal Abab Lematang Ilir": {
+      "canonical": "Penukal Abab Lematang Ilir Regency,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Lubuklinggau": {
+      "canonical": "Lubuklinggau,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pagar Alam": {
+      "canonical": "Pagar Alam,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Palembang": {
+      "canonical": "Palembang,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Prabumulih": {
+      "canonical": "Prabumulih,South Sumatra,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Bengkulu": {
+    "Seluruh Provinsi Bengkulu": {
+      "canonical": "Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bengkulu Selatan": {
+      "canonical": "Bengkulu Selatan Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bengkulu Tengah": {
+      "canonical": "Bengkulu Tengah Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bengkulu Utara": {
+      "canonical": "Bengkulu Utara Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kaur": {
+      "canonical": "Kaur Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepahiang": {
+      "canonical": "Kepahiang Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lebong": {
+      "canonical": "Lebong Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mukomuko": {
+      "canonical": "Mukomuko Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Rejang Lebong": {
+      "canonical": "Rejang Lebong Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Seluma": {
+      "canonical": "Seluma Regency,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bengkulu": {
+      "canonical": "Bengkulu,Bengkulu,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Lampung": {
+    "Seluruh Provinsi Lampung": {
+      "canonical": "Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lampung Barat": {
+      "canonical": "Lampung Barat Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lampung Selatan": {
+      "canonical": "Lampung Selatan Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lampung Tengah": {
+      "canonical": "Lampung Tengah Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lampung Timur": {
+      "canonical": "Lampung Timur Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lampung Utara": {
+      "canonical": "Lampung Utara Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mesuji": {
+      "canonical": "Mesuji Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pesawaran": {
+      "canonical": "Pesawaran Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pesisir Barat": {
+      "canonical": "Pesisir Barat Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pringsewu": {
+      "canonical": "Pringsewu Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanggamus": {
+      "canonical": "Tanggamus Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tulang Bawang Barat": {
+      "canonical": "Tulang Bawang Barat Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tulangbawang": {
+      "canonical": "Tulangbawang Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Way Kanan": {
+      "canonical": "Way Kanan Regency,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bandar Lampung": {
+      "canonical": "Bandar Lampung,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Metro": {
+      "canonical": "Metro,Lampung,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kepulauan Bangka Belitung": {
+    "Seluruh Provinsi Kepulauan Bangka Belitung": {
+      "canonical": "Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangka": {
+      "canonical": "Bangka Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangka Barat": {
+      "canonical": "Bangka Barat Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangka Selatan": {
+      "canonical": "Bangka Selatan Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangka Tengah": {
+      "canonical": "Bangka Tengah Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Belitung": {
+      "canonical": "Belitung Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Belitung Timur": {
+      "canonical": "Belitung Timur Regency,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pangkal Pinang": {
+      "canonical": "Pangkal Pinang,Bangka Belitung Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kepulauan Riau": {
+    "Seluruh Provinsi Kepulauan Riau": {
+      "canonical": "Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bintan": {
+      "canonical": "Bintan Regency,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Karimun": {
+      "canonical": "Karimun Regency,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Anambas": {
+      "canonical": "Kepulauan Anambas Regency,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lingga": {
+      "canonical": "Lingga Regency,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Natuna": {
+      "canonical": "Natuna Regency,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota B A T A M": {
+      "canonical": "B A T A M,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tanjung Pinang": {
+      "canonical": "Tanjung Pinang,Riau Islands,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "DKI Jakarta": {
+    "Seluruh Provinsi DKI Jakarta": {
+      "canonical": "Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Seribu": {
+      "canonical": "Kepulauan Seribu Regency,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jakarta Barat": {
+      "canonical": "Jakarta Barat,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jakarta Pusat": {
+      "canonical": "Jakarta Pusat,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jakarta Selatan": {
+      "canonical": "Jakarta Selatan,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jakarta Timur": {
+      "canonical": "Jakarta Timur,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jakarta Utara": {
+      "canonical": "Jakarta Utara,Jakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Jawa Barat": {
+    "Seluruh Provinsi Jawa Barat": {
+      "canonical": "West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bandung": {
+      "canonical": "Bandung Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bandung Barat": {
+      "canonical": "Bandung Barat Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bekasi": {
+      "canonical": "Bekasi Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bogor": {
+      "canonical": "Bogor Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ciamis": {
+      "canonical": "Ciamis Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Cianjur": {
+      "canonical": "Cianjur Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Cirebon": {
+      "canonical": "Cirebon Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Garut": {
+      "canonical": "Garut Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Indramayu": {
+      "canonical": "Indramayu Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Karawang": {
+      "canonical": "Karawang Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kuningan": {
+      "canonical": "Kuningan Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Majalengka": {
+      "canonical": "Majalengka Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pangandaran": {
+      "canonical": "Pangandaran Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Purwakarta": {
+      "canonical": "Purwakarta Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Subang": {
+      "canonical": "Subang Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sukabumi": {
+      "canonical": "Sukabumi Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumedang": {
+      "canonical": "Sumedang Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tasikmalaya": {
+      "canonical": "Tasikmalaya Regency,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bandung": {
+      "canonical": "Bandung,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Banjar": {
+      "canonical": "Banjar,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bekasi": {
+      "canonical": "Bekasi,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bogor": {
+      "canonical": "Bogor,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Cimahi": {
+      "canonical": "Cimahi,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Cirebon": {
+      "canonical": "Cirebon,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Depok": {
+      "canonical": "Depok,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sukabumi": {
+      "canonical": "Sukabumi,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tasikmalaya": {
+      "canonical": "Tasikmalaya,West Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Jawa Tengah": {
+    "Seluruh Provinsi Jawa Tengah": {
+      "canonical": "Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banjarnegara": {
+      "canonical": "Banjarnegara Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banyumas": {
+      "canonical": "Banyumas Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Batang": {
+      "canonical": "Batang Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Blora": {
+      "canonical": "Blora Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Boyolali": {
+      "canonical": "Boyolali Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Brebes": {
+      "canonical": "Brebes Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Cilacap": {
+      "canonical": "Cilacap Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Demak": {
+      "canonical": "Demak Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Grobogan": {
+      "canonical": "Grobogan Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jepara": {
+      "canonical": "Jepara Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Karanganyar": {
+      "canonical": "Karanganyar Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kebumen": {
+      "canonical": "Kebumen Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kendal": {
+      "canonical": "Kendal Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Klaten": {
+      "canonical": "Klaten Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kudus": {
+      "canonical": "Kudus Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Magelang": {
+      "canonical": "Magelang Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pati": {
+      "canonical": "Pati Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pekalongan": {
+      "canonical": "Pekalongan Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pemalang": {
+      "canonical": "Pemalang Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Purbalingga": {
+      "canonical": "Purbalingga Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Purworejo": {
+      "canonical": "Purworejo Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Rembang": {
+      "canonical": "Rembang Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Semarang": {
+      "canonical": "Semarang Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sragen": {
+      "canonical": "Sragen Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sukoharjo": {
+      "canonical": "Sukoharjo Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tegal": {
+      "canonical": "Tegal Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Temanggung": {
+      "canonical": "Temanggung Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Wonogiri": {
+      "canonical": "Wonogiri Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Wonosobo": {
+      "canonical": "Wonosobo Regency,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Magelang": {
+      "canonical": "Magelang,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pekalongan": {
+      "canonical": "Pekalongan,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Salatiga": {
+      "canonical": "Salatiga,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Semarang": {
+      "canonical": "Semarang,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Surakarta": {
+      "canonical": "Surakarta,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tegal": {
+      "canonical": "Tegal,Central Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "DI Yogyakarta": {
+    "Seluruh Provinsi DI Yogyakarta": {
+      "canonical": "Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bantul": {
+      "canonical": "Bantul Regency,Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gunung Kidul": {
+      "canonical": "Gunung Kidul Regency,Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kulon Progo": {
+      "canonical": "Kulon Progo Regency,Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sleman": {
+      "canonical": "Sleman Regency,Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Yogyakarta": {
+      "canonical": "Yogyakarta,Special Region of Yogyakarta,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Jawa Timur": {
+    "Seluruh Provinsi Jawa Timur": {
+      "canonical": "East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangkalan": {
+      "canonical": "Bangkalan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banyuwangi": {
+      "canonical": "Banyuwangi Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Blitar": {
+      "canonical": "Blitar Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bojonegoro": {
+      "canonical": "Bojonegoro Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bondowoso": {
+      "canonical": "Bondowoso Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gresik": {
+      "canonical": "Gresik Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jember": {
+      "canonical": "Jember Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jombang": {
+      "canonical": "Jombang Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kediri": {
+      "canonical": "Kediri Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lamongan": {
+      "canonical": "Lamongan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lumajang": {
+      "canonical": "Lumajang Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Madiun": {
+      "canonical": "Madiun Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Magetan": {
+      "canonical": "Magetan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Malang": {
+      "canonical": "Malang Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mojokerto": {
+      "canonical": "Mojokerto Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nganjuk": {
+      "canonical": "Nganjuk Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ngawi": {
+      "canonical": "Ngawi Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pacitan": {
+      "canonical": "Pacitan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pamekasan": {
+      "canonical": "Pamekasan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pasuruan": {
+      "canonical": "Pasuruan Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ponorogo": {
+      "canonical": "Ponorogo Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Probolinggo": {
+      "canonical": "Probolinggo Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sampang": {
+      "canonical": "Sampang Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sidoarjo": {
+      "canonical": "Sidoarjo Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Situbondo": {
+      "canonical": "Situbondo Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumenep": {
+      "canonical": "Sumenep Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Trenggalek": {
+      "canonical": "Trenggalek Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tuban": {
+      "canonical": "Tuban Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tulungagung": {
+      "canonical": "Tulungagung Regency,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Batu": {
+      "canonical": "Batu,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Blitar": {
+      "canonical": "Blitar,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Kediri": {
+      "canonical": "Kediri,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Madiun": {
+      "canonical": "Madiun,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Malang": {
+      "canonical": "Malang,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Mojokerto": {
+      "canonical": "Mojokerto,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pasuruan": {
+      "canonical": "Pasuruan,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Probolinggo": {
+      "canonical": "Probolinggo,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Surabaya": {
+      "canonical": "Surabaya,East Java,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Banten": {
+    "Seluruh Provinsi Banten": {
+      "canonical": "Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lebak": {
+      "canonical": "Lebak Regency,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pandeglang": {
+      "canonical": "Pandeglang Regency,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Serang": {
+      "canonical": "Serang Regency,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tangerang": {
+      "canonical": "Tangerang Regency,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Cilegon": {
+      "canonical": "Cilegon,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Serang": {
+      "canonical": "Serang,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tangerang": {
+      "canonical": "Tangerang,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tangerang Selatan": {
+      "canonical": "Tangerang Selatan,Banten,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Bali": {
+    "Seluruh Provinsi Bali": {
+      "canonical": "Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Badung": {
+      "canonical": "Badung Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bangli": {
+      "canonical": "Bangli Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buleleng": {
+      "canonical": "Buleleng Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gianyar": {
+      "canonical": "Gianyar Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jembrana": {
+      "canonical": "Jembrana Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Karang Asem": {
+      "canonical": "Karang Asem Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Klungkung": {
+      "canonical": "Klungkung Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tabanan": {
+      "canonical": "Tabanan Regency,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Denpasar": {
+      "canonical": "Denpasar,Bali,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Nusa Tenggara Barat": {
+    "Seluruh Provinsi Nusa Tenggara Barat": {
+      "canonical": "West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bima": {
+      "canonical": "Bima Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Dompu": {
+      "canonical": "Dompu Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lombok Barat": {
+      "canonical": "Lombok Barat Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lombok Tengah": {
+      "canonical": "Lombok Tengah Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lombok Timur": {
+      "canonical": "Lombok Timur Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lombok Utara": {
+      "canonical": "Lombok Utara Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumbawa": {
+      "canonical": "Sumbawa Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumbawa Barat": {
+      "canonical": "Sumbawa Barat Regency,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bima": {
+      "canonical": "Bima,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Mataram": {
+      "canonical": "Mataram,West Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Nusa Tenggara Timur": {
+    "Seluruh Provinsi Nusa Tenggara Timur": {
+      "canonical": "East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Alor": {
+      "canonical": "Alor Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Belu": {
+      "canonical": "Belu Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ende": {
+      "canonical": "Ende Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Flores Timur": {
+      "canonical": "Flores Timur Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kupang": {
+      "canonical": "Kupang Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lembata": {
+      "canonical": "Lembata Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Malaka": {
+      "canonical": "Malaka Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Manggarai": {
+      "canonical": "Manggarai Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Manggarai Barat": {
+      "canonical": "Manggarai Barat Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Manggarai Timur": {
+      "canonical": "Manggarai Timur Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nagekeo": {
+      "canonical": "Nagekeo Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ngada": {
+      "canonical": "Ngada Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Rote Ndao": {
+      "canonical": "Rote Ndao Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sabu Raijua": {
+      "canonical": "Sabu Raijua Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sikka": {
+      "canonical": "Sikka Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumba Barat": {
+      "canonical": "Sumba Barat Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumba Barat Daya": {
+      "canonical": "Sumba Barat Daya Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumba Tengah": {
+      "canonical": "Sumba Tengah Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sumba Timur": {
+      "canonical": "Sumba Timur Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Timor Tengah Selatan": {
+      "canonical": "Timor Tengah Selatan Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Timor Tengah Utara": {
+      "canonical": "Timor Tengah Utara Regency,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Kupang": {
+      "canonical": "Kupang,East Nusa Tenggara,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kalimantan Barat": {
+    "Seluruh Provinsi Kalimantan Barat": {
+      "canonical": "West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bengkayang": {
+      "canonical": "Bengkayang Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kapuas Hulu": {
+      "canonical": "Kapuas Hulu Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kayong Utara": {
+      "canonical": "Kayong Utara Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Ketapang": {
+      "canonical": "Ketapang Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kubu Raya": {
+      "canonical": "Kubu Raya Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Landak": {
+      "canonical": "Landak Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Melawi": {
+      "canonical": "Melawi Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mempawah": {
+      "canonical": "Mempawah Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sambas": {
+      "canonical": "Sambas Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sanggau": {
+      "canonical": "Sanggau Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sekadau": {
+      "canonical": "Sekadau Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sintang": {
+      "canonical": "Sintang Regency,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Pontianak": {
+      "canonical": "Pontianak,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Singkawang": {
+      "canonical": "Singkawang,West Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kalimantan Tengah": {
+    "Seluruh Provinsi Kalimantan Tengah": {
+      "canonical": "Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Barito Selatan": {
+      "canonical": "Barito Selatan Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Barito Timur": {
+      "canonical": "Barito Timur Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Barito Utara": {
+      "canonical": "Barito Utara Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gunung Mas": {
+      "canonical": "Gunung Mas Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kapuas": {
+      "canonical": "Kapuas Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Katingan": {
+      "canonical": "Katingan Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kotawaringin Barat": {
+      "canonical": "Kotawaringin Barat Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kotawaringin Timur": {
+      "canonical": "Kotawaringin Timur Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lamandau": {
+      "canonical": "Lamandau Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Murung Raya": {
+      "canonical": "Murung Raya Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pulang Pisau": {
+      "canonical": "Pulang Pisau Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Seruyan": {
+      "canonical": "Seruyan Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sukamara": {
+      "canonical": "Sukamara Regency,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Palangka Raya": {
+      "canonical": "Palangka Raya,Central Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kalimantan Selatan": {
+    "Seluruh Provinsi Kalimantan Selatan": {
+      "canonical": "South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Balangan": {
+      "canonical": "Balangan Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banjar": {
+      "canonical": "Banjar Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Barito Kuala": {
+      "canonical": "Barito Kuala Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Hulu Sungai Selatan": {
+      "canonical": "Hulu Sungai Selatan Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Hulu Sungai Tengah": {
+      "canonical": "Hulu Sungai Tengah Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Hulu Sungai Utara": {
+      "canonical": "Hulu Sungai Utara Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kota Baru": {
+      "canonical": "Kota Baru Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tabalong": {
+      "canonical": "Tabalong Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanah Bumbu": {
+      "canonical": "Tanah Bumbu Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tanah Laut": {
+      "canonical": "Tanah Laut Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tapin": {
+      "canonical": "Tapin Regency,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Banjar Baru": {
+      "canonical": "Banjar Baru,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Banjarmasin": {
+      "canonical": "Banjarmasin,South Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kalimantan Timur": {
+    "Seluruh Provinsi Kalimantan Timur": {
+      "canonical": "East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Berau": {
+      "canonical": "Berau Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kutai Barat": {
+      "canonical": "Kutai Barat Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kutai Kartanegara": {
+      "canonical": "Kutai Kartanegara Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kutai Timur": {
+      "canonical": "Kutai Timur Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mahakam Hulu": {
+      "canonical": "Mahakam Hulu Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Paser": {
+      "canonical": "Paser Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Penajam Paser Utara": {
+      "canonical": "Penajam Paser Utara Regency,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Balikpapan": {
+      "canonical": "Balikpapan,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bontang": {
+      "canonical": "Bontang,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Samarinda": {
+      "canonical": "Samarinda,East Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Kalimantan Utara": {
+    "Seluruh Provinsi Kalimantan Utara": {
+      "canonical": "North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bulungan": {
+      "canonical": "Bulungan Regency,North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Malinau": {
+      "canonical": "Malinau Regency,North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nunukan": {
+      "canonical": "Nunukan Regency,North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tana Tidung": {
+      "canonical": "Tana Tidung Regency,North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tarakan": {
+      "canonical": "Tarakan,North Kalimantan,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sulawesi Utara": {
+    "Seluruh Provinsi Sulawesi Utara": {
+      "canonical": "North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bolaang Mongondow": {
+      "canonical": "Bolaang Mongondow Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bolaang Mongondow Selatan": {
+      "canonical": "Bolaang Mongondow Selatan Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bolaang Mongondow Timur": {
+      "canonical": "Bolaang Mongondow Timur Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bolaang Mongondow Utara": {
+      "canonical": "Bolaang Mongondow Utara Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Sangihe": {
+      "canonical": "Kepulauan Sangihe Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Talaud": {
+      "canonical": "Kepulauan Talaud Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Minahasa": {
+      "canonical": "Minahasa Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Minahasa Selatan": {
+      "canonical": "Minahasa Selatan Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Minahasa Tenggara": {
+      "canonical": "Minahasa Tenggara Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Minahasa Utara": {
+      "canonical": "Minahasa Utara Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Siau Tagulandang Biaro": {
+      "canonical": "Siau Tagulandang Biaro Regency,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Bitung": {
+      "canonical": "Bitung,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Kotamobagu": {
+      "canonical": "Kotamobagu,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Manado": {
+      "canonical": "Manado,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tomohon": {
+      "canonical": "Tomohon,North Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sulawesi Tengah": {
+    "Seluruh Provinsi Sulawesi Tengah": {
+      "canonical": "Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banggai": {
+      "canonical": "Banggai Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banggai Kepulauan": {
+      "canonical": "Banggai Kepulauan Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Banggai Laut": {
+      "canonical": "Banggai Laut Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buol": {
+      "canonical": "Buol Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Donggala": {
+      "canonical": "Donggala Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Morowali": {
+      "canonical": "Morowali Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Morowali Utara": {
+      "canonical": "Morowali Utara Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Parigi Moutong": {
+      "canonical": "Parigi Moutong Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Poso": {
+      "canonical": "Poso Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sigi": {
+      "canonical": "Sigi Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tojo Una-Una": {
+      "canonical": "Tojo Una-Una Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Toli-Toli": {
+      "canonical": "Toli-Toli Regency,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Palu": {
+      "canonical": "Palu,Central Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sulawesi Selatan": {
+    "Seluruh Provinsi Sulawesi Selatan": {
+      "canonical": "South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bantaeng": {
+      "canonical": "Bantaeng Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Barru": {
+      "canonical": "Barru Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bone": {
+      "canonical": "Bone Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bulukumba": {
+      "canonical": "Bulukumba Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Enrekang": {
+      "canonical": "Enrekang Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gowa": {
+      "canonical": "Gowa Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jeneponto": {
+      "canonical": "Jeneponto Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Selayar": {
+      "canonical": "Kepulauan Selayar Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Luwu": {
+      "canonical": "Luwu Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Luwu Timur": {
+      "canonical": "Luwu Timur Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Luwu Utara": {
+      "canonical": "Luwu Utara Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maros": {
+      "canonical": "Maros Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pangkajene Dan Kepulauan": {
+      "canonical": "Pangkajene Dan Kepulauan Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pinrang": {
+      "canonical": "Pinrang Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sidenreng Rappang": {
+      "canonical": "Sidenreng Rappang Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sinjai": {
+      "canonical": "Sinjai Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Soppeng": {
+      "canonical": "Soppeng Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Takalar": {
+      "canonical": "Takalar Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tana Toraja": {
+      "canonical": "Tana Toraja Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Toraja Utara": {
+      "canonical": "Toraja Utara Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Wajo": {
+      "canonical": "Wajo Regency,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Makassar": {
+      "canonical": "Makassar,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Palopo": {
+      "canonical": "Palopo,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Parepare": {
+      "canonical": "Parepare,South Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sulawesi Tenggara": {
+    "Seluruh Provinsi Sulawesi Tenggara": {
+      "canonical": "Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bombana": {
+      "canonical": "Bombana Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buton": {
+      "canonical": "Buton Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buton Selatan": {
+      "canonical": "Buton Selatan Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buton Tengah": {
+      "canonical": "Buton Tengah Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buton Utara": {
+      "canonical": "Buton Utara Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kolaka": {
+      "canonical": "Kolaka Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kolaka Timur": {
+      "canonical": "Kolaka Timur Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kolaka Utara": {
+      "canonical": "Kolaka Utara Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Konawe": {
+      "canonical": "Konawe Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Konawe Kepulauan": {
+      "canonical": "Konawe Kepulauan Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Konawe Selatan": {
+      "canonical": "Konawe Selatan Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Konawe Utara": {
+      "canonical": "Konawe Utara Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Muna": {
+      "canonical": "Muna Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Muna Barat": {
+      "canonical": "Muna Barat Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Wakatobi": {
+      "canonical": "Wakatobi Regency,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Baubau": {
+      "canonical": "Baubau,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Kendari": {
+      "canonical": "Kendari,Southeast Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Gorontalo": {
+    "Seluruh Provinsi Gorontalo": {
+      "canonical": "Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Boalemo": {
+      "canonical": "Boalemo Regency,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Bone Bolango": {
+      "canonical": "Bone Bolango Regency,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gorontalo": {
+      "canonical": "Gorontalo Regency,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Gorontalo Utara": {
+      "canonical": "Gorontalo Utara Regency,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pohuwato": {
+      "canonical": "Pohuwato Regency,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Gorontalo": {
+      "canonical": "Gorontalo,Gorontalo,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Sulawesi Barat": {
+    "Seluruh Provinsi Sulawesi Barat": {
+      "canonical": "West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Majene": {
+      "canonical": "Majene Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamasa": {
+      "canonical": "Mamasa Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamuju": {
+      "canonical": "Mamuju Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamuju Tengah": {
+      "canonical": "Mamuju Tengah Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamuju Utara": {
+      "canonical": "Mamuju Utara Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Polewali Mandar": {
+      "canonical": "Polewali Mandar Regency,West Sulawesi,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Maluku": {
+    "Seluruh Provinsi Maluku": {
+      "canonical": "Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buru": {
+      "canonical": "Buru Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Buru Selatan": {
+      "canonical": "Buru Selatan Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Aru": {
+      "canonical": "Kepulauan Aru Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maluku Barat Daya": {
+      "canonical": "Maluku Barat Daya Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maluku Tengah": {
+      "canonical": "Maluku Tengah Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maluku Tenggara": {
+      "canonical": "Maluku Tenggara Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maluku Tenggara Barat": {
+      "canonical": "Maluku Tenggara Barat Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Seram Bagian Barat": {
+      "canonical": "Seram Bagian Barat Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Seram Bagian Timur": {
+      "canonical": "Seram Bagian Timur Regency,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Ambon": {
+      "canonical": "Ambon,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tual": {
+      "canonical": "Tual,Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Maluku Utara": {
+    "Seluruh Provinsi Maluku Utara": {
+      "canonical": "North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Halmahera Barat": {
+      "canonical": "Halmahera Barat Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Halmahera Selatan": {
+      "canonical": "Halmahera Selatan Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Halmahera Tengah": {
+      "canonical": "Halmahera Tengah Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Halmahera Timur": {
+      "canonical": "Halmahera Timur Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Halmahera Utara": {
+      "canonical": "Halmahera Utara Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Sula": {
+      "canonical": "Kepulauan Sula Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pulau Morotai": {
+      "canonical": "Pulau Morotai Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pulau Taliabu": {
+      "canonical": "Pulau Taliabu Regency,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Ternate": {
+      "canonical": "Ternate,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Tidore Kepulauan": {
+      "canonical": "Tidore Kepulauan,North Maluku,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Papua Barat": {
+    "Seluruh Provinsi Papua Barat": {
+      "canonical": "West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Fakfak": {
+      "canonical": "Fakfak Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kaimana": {
+      "canonical": "Kaimana Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Manokwari": {
+      "canonical": "Manokwari Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Manokwari Selatan": {
+      "canonical": "Manokwari Selatan Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Maybrat": {
+      "canonical": "Maybrat Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pegunungan Arfak": {
+      "canonical": "Pegunungan Arfak Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Raja Ampat": {
+      "canonical": "Raja Ampat Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sorong": {
+      "canonical": "Sorong Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sorong Selatan": {
+      "canonical": "Sorong Selatan Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tambrauw": {
+      "canonical": "Tambrauw Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Teluk Bintuni": {
+      "canonical": "Teluk Bintuni Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Teluk Wondama": {
+      "canonical": "Teluk Wondama Regency,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Sorong": {
+      "canonical": "Sorong,West Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  },
+  "Papua": {
+    "Seluruh Provinsi Papua": {
+      "canonical": "Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Asmat": {
+      "canonical": "Asmat Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Biak Numfor": {
+      "canonical": "Biak Numfor Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Boven Digoel": {
+      "canonical": "Boven Digoel Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Deiyai": {
+      "canonical": "Deiyai Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Dogiyai": {
+      "canonical": "Dogiyai Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Intan Jaya": {
+      "canonical": "Intan Jaya Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jayapura": {
+      "canonical": "Jayapura Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Jayawijaya": {
+      "canonical": "Jayawijaya Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Keerom": {
+      "canonical": "Keerom Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Kepulauan Yapen": {
+      "canonical": "Kepulauan Yapen Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Lanny Jaya": {
+      "canonical": "Lanny Jaya Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamberamo Raya": {
+      "canonical": "Mamberamo Raya Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mamberamo Tengah": {
+      "canonical": "Mamberamo Tengah Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mappi": {
+      "canonical": "Mappi Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Merauke": {
+      "canonical": "Merauke Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Mimika": {
+      "canonical": "Mimika Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nabire": {
+      "canonical": "Nabire Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Nduga": {
+      "canonical": "Nduga Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Paniai": {
+      "canonical": "Paniai Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Pegunungan Bintang": {
+      "canonical": "Pegunungan Bintang Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Puncak": {
+      "canonical": "Puncak Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Puncak Jaya": {
+      "canonical": "Puncak Jaya Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Sarmi": {
+      "canonical": "Sarmi Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Supiori": {
+      "canonical": "Supiori Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Tolikara": {
+      "canonical": "Tolikara Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Waropen": {
+      "canonical": "Waropen Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Yahukimo": {
+      "canonical": "Yahukimo Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kabupaten Yalimo": {
+      "canonical": "Yalimo Regency,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    },
+    "Kota Jayapura": {
+      "canonical": "Jayapura,Papua,Indonesia",
+      "gl": "id",
+      "hl": "id"
+    }
+  }
+}
